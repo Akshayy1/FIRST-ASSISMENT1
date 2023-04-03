@@ -798,13 +798,14 @@ block_nine p
 
 }
 .menu_item {
-    background-color: orange;
+    background-image: linear-gradient(#f29931, #de4627);
     text-align: center;
     line-height: 310%;
     font-weight: bold;
     font-family: 'Roboto';
 
 }
+
 #checkbox {
     display: none;
 }
